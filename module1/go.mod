@@ -1,6 +1,6 @@
 module github.com/astj/renovate-sandbox-go-mod-replace/module1
 
-go 1.14
+go 1.19
 
 replace github.com/astj/renovate-sandbox-go-mod-replace/module2 => ../module2
 
